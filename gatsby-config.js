@@ -3,12 +3,12 @@ dotenv.config()
 
 module.exports = {
   siteMetadata: {
-    title: `Ysftzcn blog`,
+    title: `ysftzcn - System Administrator`,
     author: {
       name: `Yusuf Tezcan`,
       summary: `who lives and works in Turkey building useful things.`,
     },
-    description: `Ysftzcn blog`,
+    description: `ysftzcn - System Administrator`,
     siteUrl: `https://ysftzcn.com/`, //
     social: {
       twitter: ``, //
