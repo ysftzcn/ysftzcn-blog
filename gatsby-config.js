@@ -9,19 +9,12 @@ module.exports = {
       summary: `who lives and works in Turkey building useful things.`,
     },
     description: `Ysftzcn blog`,
-    siteUrl: `localhost:8080`, //
+    siteUrl: `https://ysftzcn.com/`, //
     social: {
       twitter: ``, //
     },
   },
   plugins: [
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
-      },
-    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
